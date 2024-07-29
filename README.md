@@ -14,6 +14,10 @@ Each element interacted with by the code has been assigned a `data-cy` attribute
 
 Additionally, `cy.task` was utilized for improved server interaction. API was employed for creating new users and articles directly on the site.
 
+## What is Conduit
+
+Conduit is a demo project designed to showcase a fully functional blogging platform. It provides a robust set of features for creating and managing content, as well as interacting with other users.
+
 ## How to Run the Project
 
 - Run `npm i`.
