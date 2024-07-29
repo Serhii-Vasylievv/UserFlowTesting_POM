@@ -16,8 +16,6 @@ Additionally, `cy.task` was utilized for improved server interaction. API was em
 
 ## How to Run the Project
 
-- Fork the repo.
-- Clone **your** forked repository.
 - Run `npm i`.
 - Install Cypress `npm install cypress --save -dev`
 - Run the [app](./DEV.md).
